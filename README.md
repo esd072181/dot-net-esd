@@ -1,2 +1,2 @@
 # dot-net-esd
-Desktop Applications
+.NET Console and Desktop Applications
